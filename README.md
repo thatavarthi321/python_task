@@ -49,8 +49,10 @@ IN326008904_PYTHON/
 ├── Functions with loops task 6.ipynb
 └── Function with loops task 7.ipynb
 
+```
+---
 
-📚 Topics Covered
+### 📚 Topics Covered
 
 🔹 Logic Building
 User Login Validation
@@ -102,7 +104,7 @@ jupyter notebook
 
 4. Run the notebooks individually
 
-📊 Learning Outcomes
+### 📊 Learning Outcomes
 
 Through these tasks, I improved my understanding of:
 
@@ -114,7 +116,7 @@ Through these tasks, I improved my understanding of:
 - Object-oriented programming
 - Real-world application development
 
-🎯 Use Cases
+### 🎯 Use Cases
 
 - Python practice for beginners
 - Logic building exercises
